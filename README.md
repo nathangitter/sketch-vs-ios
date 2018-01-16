@@ -8,6 +8,8 @@ This app was used to investigate some rendering differences between Sketch and i
 
 [Medium Post — Why Your App Looks Better in Sketch](http://medium.com)
 
+The app is best seen in-person on a real device which is why it is freely available to download, install, and modify.
+
 ![Example Gif](card.gif)
 
 ## Installation

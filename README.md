@@ -14,13 +14,15 @@ This app was used to investigate some rendering differences between Sketch and i
 
 To run the app, download/clone the repo and open `SketchVsQuartz.xcodeproj` in Xcode 9. More details about the app can be found in [README.md](https://github.com/nathangitter/sketch-vs-ios/blob/master/SketchVsQuartz/SketchVsQuartz/README.md) within the Xcode project.
 
+The Sketch file is named `Examples.sketch`.
+
 ## About Me
 
 Interested in the intersection of art and technology? I build/write/share things on the internet:
 
 [Follow me on Twitter](http://twitter.com/@nathangitter)
 
-[Follow mw on Medium](https://medium.com/@nathangitter)
+[Follow me on Medium](https://medium.com/@nathangitter)
 
 ## License
 

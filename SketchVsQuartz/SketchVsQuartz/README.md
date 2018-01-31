@@ -4,7 +4,7 @@
 ## Background
 This project was created to accompany my post on Medium titled "Why Your App Looks Better in Sketch". The post can be found at the link below:
 
-[Medium Post](http://medium.com)
+[Medium Post](https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7)
 
 ## Running the App
 The app is best seen on a real device, although the simulator works as well.
